@@ -1,0 +1,1 @@
+// Discord bot using the OpenAI API that interacts with the discord server
